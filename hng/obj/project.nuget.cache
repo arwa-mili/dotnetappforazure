@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWpzTwB0aXQE/jthcxl2eZwkuyQmN1d1VUVEY2DBqqIfsbMUF5h54ssr5k3V5YDsvmt1G70mqWDwDzVlMYi/LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\milia\\source\\repos\\hng\\hng\\hng.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milia\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\milia\\.nuget\\packages\\nuget.frameworks\\6.4.0\\nuget.frameworks.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
